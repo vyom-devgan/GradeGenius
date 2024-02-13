@@ -1,6 +1,6 @@
-# Grader
+# GradeGenius
 
-Grader is a Python tool designed to simplify the process of converting numerical grades from Google Classroom into alphabetical grades. It primarily targets educators working with elementary school and kindergarten students. The tool aims to streamline the grading experience, making it more intuitive and aligned with the grading standards for young learners.
+GradeGenius is a Python tool designed to simplify the process of converting numerical grades from Google Classroom into alphabetical grades. It primarily targets educators working with elementary school and kindergarten students. The tool aims to streamline the grading experience, making it more intuitive and aligned with the grading standards for young learners.
 
 ## Objective
 The main objective of Grader is to offer a user-friendly solution for teachers to convert numerical marks obtained from Google Classroom into alphabetical grades, catering to the specific needs of educators dealing with younger students.
